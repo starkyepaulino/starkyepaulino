@@ -1,7 +1,7 @@
-<h1>Hi, I'm Starky, an <a href="https://linkedin.com">CyberSecurity Professional</a>☺</h1>
+<h1>Hi, I'm Starky, an <a href="https://linkedin.com">Data Analyst</a>☺</h1>
 
-<h2>Cybersecurity Projects</h2>
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>Data Analyst Projects</h2>
+<h2>👨‍💻 Data Analyst Projects:</h2>
 
 - <b>Azure / Cloud Cybersecurity Project</b>
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/starkyepaulino/Azure-Honeynet-Project)
